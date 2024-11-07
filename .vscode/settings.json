@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Spaghetti.sln"
+    "dotnet.defaultSolution": "spaghetti.sln"
 }
