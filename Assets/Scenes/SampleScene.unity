@@ -438,6 +438,38 @@ Transform:
   - {fileID: 1621871081}
   m_Father: {fileID: 1419141800}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &204544998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 204544999}
+  m_Layer: 0
+  m_Name: Butterfly Red Wrap
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &204544999
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 204544998}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.621, y: -5.884, z: -13.333334}
+  m_LocalScale: {x: 0.6666667, y: 0.6666667, z: 0.6666667}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 1049337930}
+  m_Father: {fileID: 1419141800}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &211377586
 GameObject:
   m_ObjectHideFlags: 0
@@ -935,6 +967,38 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2007219750784066963, guid: 62521ed36ae40084a831c3ffa87140b3, type: 3}
   m_PrefabInstance: {fileID: 356205536}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &409378992
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 409378993}
+  m_Layer: 0
+  m_Name: Bush 2 Pink Wrap
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &409378993
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409378992}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.37, y: -7.79, z: -10.408407}
+  m_LocalScale: {x: 1.15, y: 1.15, z: 1.15}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 1484129775}
+  m_Father: {fileID: 1419141800}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &412448189
 GameObject:
   m_ObjectHideFlags: 0
@@ -1144,6 +1208,38 @@ Transform:
   m_Children:
   - {fileID: 2137058522}
   m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &520094438
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 520094439}
+  m_Layer: 0
+  m_Name: Butterfly Red Wrap
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &520094439
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 520094438}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -7.27, y: -1.4, z: 2.3}
+  m_LocalScale: {x: 4, y: 4, z: 4}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 1656966369}
+  m_Father: {fileID: 1339197502}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &559271881
 GameObject:
@@ -2083,6 +2179,72 @@ Transform:
   - {fileID: 1563876242}
   m_Father: {fileID: 1419141800}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1049337929
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 204544999}
+    m_Modifications:
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662789, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662791, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_Name
+      value: Butterfly Red Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+--- !u!4 &1049337930 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+  m_PrefabInstance: {fileID: 1049337929}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1057286755
 GameObject:
   m_ObjectHideFlags: 0
@@ -2833,6 +2995,7 @@ Transform:
   m_Children:
   - {fileID: 1199772106}
   - {fileID: 1110272958}
+  - {fileID: 520094439}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1373505810
@@ -2960,6 +3123,8 @@ Transform:
   - {fileID: 818842028}
   - {fileID: 269272815}
   - {fileID: 626700286}
+  - {fileID: 409378993}
+  - {fileID: 204544999}
   m_Father: {fileID: 2137058522}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1421024327
@@ -3078,6 +3243,76 @@ Transform:
   - {fileID: 178966859}
   m_Father: {fileID: 1278338441}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1484129774
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 409378993}
+    m_Modifications:
+    - target: {fileID: 2757329432079622740, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757329432079622741, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757329432079622741, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757329432079622741, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757329432079622741, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757329432079622741, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757329432079622741, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757329432079622741, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757329432079622741, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757329432079622741, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757329432079622741, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757329432079622742, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: m_Name
+      value: Bush 2 Pink
+      objectReference: {fileID: 0}
+    - target: {fileID: 3813708243391659731, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+      propertyPath: _shakeOnStart
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+--- !u!4 &1484129775 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2757329432079622741, guid: 93acb232ec1bcae4bbfd58625e518f8f, type: 3}
+  m_PrefabInstance: {fileID: 1484129774}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1563876241
 GameObject:
   m_ObjectHideFlags: 0
@@ -3330,6 +3565,72 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1656966368
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 520094439}
+    m_Modifications:
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662789, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_SortingOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3396553513978662791, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+      propertyPath: m_Name
+      value: Butterfly Red Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+--- !u!4 &1656966369 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3396553513978662788, guid: a16bb52ad9a98034cad993f809e30ee1, type: 3}
+  m_PrefabInstance: {fileID: 1656966368}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1689363357
 GameObject:
   m_ObjectHideFlags: 0
@@ -3646,6 +3947,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 626700286}
     m_Modifications:
+    - target: {fileID: 529034830500802351, guid: 360d9dac930e2444ab90f8f621830bb3, type: 3}
+      propertyPath: _shakeOnStart
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1079373906601452382, guid: 360d9dac930e2444ab90f8f621830bb3, type: 3}
       propertyPath: m_Name
       value: Tree 1 Pink
